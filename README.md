@@ -169,7 +169,7 @@ Terbuka untuk kolaborasi web, automasi sistem, atau sekadar bertukar logika.
 
 <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/LINKEDIN-3D7FFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/INSTAGRAM-FF1B8D?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>
+<img href="https://www.instagram.com/qudalautt?igsh=c3N0Y3Z0Yms5aG91"  src="https://img.shields.io/badge/INSTAGRAM-FF1B8D?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>
 <a href="https://projectkatarsis.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-FF5A1F?style=for-the-badge&logo=vercel&logoColor=000000"/></a>
 
 <br/><br/>
