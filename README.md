@@ -153,8 +153,8 @@ Mobile App (Expo) — sistem pencatatan data acara dan manajemen HTM/patungan be
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=padql&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FF5A1F&icon_color=FFDD00&text_color=FFFFFF" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=padql&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FF5A1F&text_color=FFFFFF" width="40%"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=padql&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FF5A1F&icon_color=FFDD00&text_color=FFFFFF" width="48%"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=padql&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FF5A1F&text_color=FFFFFF" width="40%"/>
 
 </div>
 
